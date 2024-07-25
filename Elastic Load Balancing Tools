@@ -1,0 +1,11 @@
+Elastic Load Balancing (ELB) automatically distributes incoming application traffic across Amazon EC2 instances,containers, or resources identified by IP addresses.
+
+The types of ELB are:
+
+ALB - Application Load Balancer
+NLB - Network Load Balancer
+GWLB - Gateway Load Balancer
+CLB - Classic Load Balancer
+Elastic Load Balancing Tools is a collection of utilities, tutorials and code samples to help AWS customers with their use of Elastic Load Balancing.
+A)Application Load balancer.
+    The application load balancer distributes incoming HTTP and HTTPS traffic across multiple targets such as Amazon EC2 Instances, microservices, and containers, based on request attributes
